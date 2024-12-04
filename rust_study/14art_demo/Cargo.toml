@@ -1,0 +1,8 @@
+[package]
+name = "art_demo"
+version = "0.1.0"
+edition = "2021"
+authors = ["starry"]
+description = "stu"
+license = "MIT"
+[dependencies]
